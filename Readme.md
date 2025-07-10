@@ -50,5 +50,5 @@
 
 The application comes with pre-configured mock data and users for demonstration purposes. Use the following credentials to log in:
 
-- **Username**: `admin`
-- **Password**: `admin123`
+- **Username**: `demo`
+- **Password**: `demo`
