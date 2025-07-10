@@ -27,6 +27,7 @@
 - **State Management**: React Context API & Hooks
 - **Charting**: [Recharts](https://recharts.org/)
 - **Forms**: [React Hook Form](https://react-hook-form.com/) & [Zod](https://zod.dev/) for validation
+- **Architecture**: Modern Component Architecture
 
 ## 🛠️ Backend Tech Stack
 
