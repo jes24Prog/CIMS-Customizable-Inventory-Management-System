@@ -41,7 +41,8 @@
 - **Mockito**
 - **PostgreSQL**
 - **ModelMapper**
-- 
+- **Maven**
+  
 ## 🛠️ Database Tech Stack
 - **PostgreSQL**
 - **Browser Local Storage**
