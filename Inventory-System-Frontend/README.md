@@ -32,7 +32,7 @@
 
 The application comes with pre-configured mock data and users for demonstration purposes. Use the following credentials to log in:
 
-- **Username**: `admin`
-- **Password**: `admin123`
+- **Username**: `demo`
+- **Password**: `demo`
 
 All data is stored in the browser's `localStorage`, so it will persist between sessions. You can clear this data from the **Settings > System** page.
