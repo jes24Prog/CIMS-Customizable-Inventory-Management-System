@@ -76,7 +76,7 @@ const LoginForm: React.FC = () => {
             )}
           </div>
           <div className="space-y-2">
-            <div className="flex items-center justify-between">
+{/*             <div className="flex items-center justify-between">
               <Label htmlFor="password">Password</Label>
               <Button
                 variant="link"
@@ -85,7 +85,7 @@ const LoginForm: React.FC = () => {
               >
                 Forgot password?
               </Button>
-            </div>
+            </div> */}
             <Input
               id="password"
               placeholder="Enter your password"
